@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /node_modules
 /public/hot
 /public/storage
@@ -10,3 +11,34 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 .env
+=======
+/bootstrap/compiled.php
+/vendor
+
+
+/build/logs
+/build/coverage
+
+
+/app/tests/_log
+
+
+composer.phar
+
+
+.DS_Store
+
+
+/.idea
+/_ide_helper.php
+
+
+/app/config/packages
+/public/packages
+
+
+/node_modules
+
+
+.env
+>>>>>>> abb83a52979a29e01b8e7fe4418749be522e27fa
